@@ -1,0 +1,57 @@
+[
+   {
+      "Id": 1,
+      "Usuario": "Jean",
+      "Cantidad_nodos": 4,
+      "Nodo_vi": "A",
+      "Nodo_vf": "D",
+      "Rutas": [
+         [
+            "A",
+            "D"
+         ],
+         [
+            "A",
+            "C",
+            "D"
+         ],
+         [
+            "A",
+            "B",
+            "C",
+            "D"
+         ]
+      ],
+      "Ruta mas recorrida": [
+         "A",
+         "B",
+         "C",
+         "D"
+      ],
+      "Ruta menos recorrida": [
+         "A",
+         "D"
+      ]
+   },
+   {
+      "Id": 2,
+      "Usuario": "Jeancito Pro",
+      "Cantidad_nodos": 3,
+      "Nodo_vi": "A",
+      "Nodo_vf": "B",
+      "Rutas": [
+         [
+            "A",
+            "B"
+         ]
+      ],
+      "Ruta mas recorrida": [
+         "A",
+         "B"
+      ],
+      "Ruta menos recorrida": [
+         "A",
+         "B"
+      ]
+   }
+]
